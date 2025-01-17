@@ -19,4 +19,4 @@ In your package.json,
 
 You have to include the `.*` matcher because once you define the `transform` property, it overrides that default.
 
-For more on configuring Jest mappers, see Jest's [Webpack tutorial](https://facebook.github.io/jest/docs/tutorial-webpack.html).
+For more on configuring Jest mappers, see Jest's [Webpack tutorial](https://jestjs.io/docs/webpack).
